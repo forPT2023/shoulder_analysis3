@@ -1,0 +1,11 @@
+venv/
+*.so
+*.dylib
+*.mp4
+*.mov
+
+venv/
+*.so
+*.dylib
+*.mp4
+*.mov
